@@ -2,7 +2,7 @@ Implementation of Data structures and Algorithms.It covers all the important Dat
 
 @Author Naveen Sharma
 
-@GitHandle itsnaveen01
+@GitHandle rookierook
 
 @Project Code Examples
 
